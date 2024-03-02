@@ -1,4 +1,4 @@
-# i247 Group Tech Test
+## i247 Group Tech Test
 
 ### Introduction
 In developing this .NET application, I've embraced a clean, maintainable, and robust architectural approach, focusing on resilience and usability. My primary goal was to ensure that the application could handle external dependencies gracefully, particularly when fetching data from the RandomUser.me API. Here, I'll outline my architectural choices, coding practices, and the rationale behind implementing retries to enhance application performance and reliability.
