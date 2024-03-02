@@ -1,0 +1,11 @@
+C:\Users\charl\i247Group_TechTest\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\charl\i247Group_TechTest\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\charl\i247Group_TechTest\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\charl\i247Group_TechTest\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\i247Group_TechTest\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\charl\i247Group_TechTest\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\charl\i247Group_TechTest\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\charl\i247Group_TechTest\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\charl\i247Group_TechTest\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\charl\i247Group_TechTest\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\charl\i247Group_TechTest\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

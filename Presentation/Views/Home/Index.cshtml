@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<BusinessLogic.Dto.UserDto>
+
+<div class="text-center">
+    <h1 class="display-4">Random Users</h1>
+</div>
+<div class="container">
+    <div class="row">
+        @if (Model is not null && Model.Any())
+        {
+            foreach (var user in Model)
+            {
+                <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">@user.FullName</h5>
+                            <p class="card-text">Age: @user.Age</p>
+                            <p class="card-text">Country: @user.Country</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <p>No users found.</p>
+        }
+    </div>
+</div>

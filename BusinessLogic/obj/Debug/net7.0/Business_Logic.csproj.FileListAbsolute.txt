@@ -1,0 +1,15 @@
+C:\Users\charl\i247Group_TechTest\Business_Logic\bin\Debug\net7.0\Business_Logic.deps.json
+C:\Users\charl\i247Group_TechTest\Business_Logic\bin\Debug\net7.0\Business_Logic.dll
+C:\Users\charl\i247Group_TechTest\Business_Logic\bin\Debug\net7.0\Business_Logic.pdb
+C:\Users\charl\i247Group_TechTest\Business_Logic\bin\Debug\net7.0\Data_Access.dll
+C:\Users\charl\i247Group_TechTest\Business_Logic\bin\Debug\net7.0\Data_Access.pdb
+C:\Users\charl\i247Group_TechTest\Business_Logic\obj\Debug\net7.0\Business_Logic.csproj.AssemblyReference.cache
+C:\Users\charl\i247Group_TechTest\Business_Logic\obj\Debug\net7.0\Business_Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\i247Group_TechTest\Business_Logic\obj\Debug\net7.0\Business_Logic.AssemblyInfoInputs.cache
+C:\Users\charl\i247Group_TechTest\Business_Logic\obj\Debug\net7.0\Business_Logic.AssemblyInfo.cs
+C:\Users\charl\i247Group_TechTest\Business_Logic\obj\Debug\net7.0\Business_Logic.csproj.CoreCompileInputs.cache
+C:\Users\charl\i247Group_TechTest\Business_Logic\obj\Debug\net7.0\Business.3182948D.Up2Date
+C:\Users\charl\i247Group_TechTest\Business_Logic\obj\Debug\net7.0\Business_Logic.dll
+C:\Users\charl\i247Group_TechTest\Business_Logic\obj\Debug\net7.0\refint\Business_Logic.dll
+C:\Users\charl\i247Group_TechTest\Business_Logic\obj\Debug\net7.0\Business_Logic.pdb
+C:\Users\charl\i247Group_TechTest\Business_Logic\obj\Debug\net7.0\ref\Business_Logic.dll
