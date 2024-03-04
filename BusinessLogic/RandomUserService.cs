@@ -61,6 +61,8 @@ public sealed class RandomUserService : IRandomUserService
             return randomUserResponse.Results.Select(user => new UserDto(
                 $"{user.Name.Title} {user.Name.First} {user.Name.Last}",
                 user.Dob.Age,
+                user.Location.Coordinates.Latitude,
+                user.Location.Coordinates.Longitude,
                 user.Location.Country
             ));
         }

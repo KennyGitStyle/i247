@@ -35,3 +35,4 @@ C:\Users\charl\i247Group_TechTest\Presentation\obj\Debug\net7.0\Presentation.pdb
 C:\Users\charl\i247Group_TechTest\Presentation\obj\Debug\net7.0\Presentation.genruntimeconfig.cache
 C:\Users\charl\i247Group_TechTest\Presentation\obj\Debug\net7.0\ref\Presentation.dll
 C:\Users\charl\i247Group_TechTest\Presentation\bin\Debug\net7.0\Polly.dll
+C:\Users\charl\i247Group_TechTest\Presentation\obj\Debug\net7.0\Presentation.sourcelink.json

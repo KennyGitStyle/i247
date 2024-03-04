@@ -13,3 +13,4 @@ C:\Users\charl\i247Group_TechTest\BusinessLogic\obj\Debug\net7.0\BusinessLogic.d
 C:\Users\charl\i247Group_TechTest\BusinessLogic\obj\Debug\net7.0\refint\BusinessLogic.dll
 C:\Users\charl\i247Group_TechTest\BusinessLogic\obj\Debug\net7.0\BusinessLogic.pdb
 C:\Users\charl\i247Group_TechTest\BusinessLogic\obj\Debug\net7.0\ref\BusinessLogic.dll
+C:\Users\charl\i247Group_TechTest\BusinessLogic\obj\Debug\net7.0\BusinessLogic.sourcelink.json
